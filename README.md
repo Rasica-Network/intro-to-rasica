@@ -13,4 +13,4 @@
 An introduction to the Rasica Network written in markdown because engineers don't do power point.
 
 ## View presentation
-https://Rasica-Network.github.io/intro-to-rasica/index.html
+[https://Rasica-Network.github.io/intro-to-rasica/index.html](https://html-preview.github.io/?url=https://raw.githubusercontent.com/Rasica-Network/intro-to-rasica/main/index.html)
